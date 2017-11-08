@@ -7,6 +7,7 @@ Welcome to the [2017 Open Source Strategy Forum](https://opensourcestrategyforum
 - Cynthia Rich, Amazing Trainer!: @crichID
 - Isaac Cohen, Solution Engineer: @issc29
 - Michael Filosa, Solution Engineer:  @mfilosa
+- William Smith, President & CEO: @williamsmith
   
 ### Goal
 
