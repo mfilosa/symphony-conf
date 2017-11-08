@@ -4,9 +4,9 @@ Welcome to the [2017 Open Source Strategy Forum](https://opensourcestrategyforum
 
 ### We Are Here to Help
 
-- Cynthia Rich: @crichID
-- Isaac Cohen: @issc29
-- Michael Filosa: @mfilosa
+- Cynthia Rich, Amazing Trainer!: @crichID
+- Isaac Cohen, Solution Engineer: @issc29
+- Michael Filosa, Solution Engineer:  @mfilosa
   
 ### Goal
 
