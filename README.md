@@ -1,6 +1,6 @@
 # Introduction to Git and GitHub
 
-Welcome to our [2017 Open Source Strategy Forum](https://opensourcestrategyforum.org/) session on Git and GitHub.
+Welcome to the [2017 Open Source Strategy Forum](https://opensourcestrategyforum.org/) Git and GitHub workshop.
 
 ### We Are Here to Help
 
