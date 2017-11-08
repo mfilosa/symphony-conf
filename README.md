@@ -10,13 +10,8 @@ Welcome to the [2017 Open Source Strategy Forum](https://opensourcestrategyforum
   
 ### Goal
 
-Our goal for today's session is to help you make a contribution (or two) to an open source project.
+Our goals for today's session are:
 
-### Getting Started
-
-We are here to help you complete the following activities:
-
-- [Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/)
-- Creating a Webpage with GitHub Pages
-  - [GitHub Desktop Version](https://services.github.com/on-demand/github-desktop/)
-  - [Command Line Version](https://services.github.com/on-demand/github-cli/)
+- Demonstrate the workflow for Open Source contributions
+- Discuss project maintainer workflows and how GitHub helps you maintain your projects
+- Answer your questions about Git and GitHub
